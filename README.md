@@ -28,7 +28,7 @@
     </a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/417398665670295572?hideStatus=true)](https://discord.com/users/751477884933374103)
+[![Discord Presence](https://lanyard.cnrad.dev/api/751477884933374103?hideStatus=true)](https://discord.com/users/751477884933374103)
 
-![Maor's github stats](https://github-readme-stats.vercel.app/api?username=xliel&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xliel&layout=compact&theme=tokyonight)
+![Maor's github stats](https://github-readme-stats.vercel.app/api?username=T3HL3V1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T3HL3V1&layout=compact&theme=tokyonight)

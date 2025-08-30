@@ -3,7 +3,7 @@
 <h3 align="left">Information:</h3>
 
 - 😄 I'm 15 years old
-- 📨 My discord: [inndeeeedddd](https://discord.com/users/751477884933374103)
+- 📨 My discord: [Levi](1373636852858486965)
 
 <h3 align="left">Programming Languages:</h3>
 
@@ -26,7 +26,7 @@
     </a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/751477884933374103?hideStatus=true)](https://discord.com/users/751477884933374103)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1373636852858486965?hideStatus=true)](https://discord.com/users/1373636852858486965)
 
-![Maor's github stats](https://github-readme-stats.vercel.app/api?username=T3HL3V1&show_icons=true&theme=tokyonight)
+![Levi's github stats](https://github-readme-stats.vercel.app/api?username=T3HL3V1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T3HL3V1&layout=compact&theme=tokyonight)

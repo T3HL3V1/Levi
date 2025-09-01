@@ -2,7 +2,7 @@
 
 <h3 align="left">Information:</h3>
 
-- 😄 I'm 15 years old
+- 😄 I'm 16 years old
 - 📨 My discord: [Levi](1373636852858486965)
 
 <h3 align="left">Programming Languages:</h3>

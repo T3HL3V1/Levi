@@ -47,5 +47,5 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1373636852858486965?hideStatus=true)](https://discord.com/users/1373636852858486965)
 
-![Levi's github stats](https://github-readme-stats.vercel.app/api?username=T3HL3V1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T3HL3V1&layout=compact&theme=tokyonight)
+![Levi's github stats](https://github-readme-stats.vercel.app/api?username=Levixzzz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levixzzz&layout=compact&theme=tokyonight)
